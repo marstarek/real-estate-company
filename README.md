@@ -8,7 +8,7 @@
  link to demo
 
 
-[deployed   on  netlify](https://marstarek.github.io/real-estate-company/)
+[deployed   on](https://marstarek.github.io/real-estate-company)
 
 
 
