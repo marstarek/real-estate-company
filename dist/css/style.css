@@ -302,6 +302,9 @@ label {
     h2 {
         font-size: 3.5rem
     }
+    .sqr_color,.sqr_color2{
+        display: none;
+    }
 
     .grid {
         display: flex;
@@ -353,6 +356,9 @@ label {
 }
 
 @media screen and (max-width:767px) {
+    .sqr_color,.sqr_color2{
+        display: none;
+    }
     h1 {
         font-size: 40px
     }
@@ -389,6 +395,9 @@ label {
 @media screen and (max-width:479px) {
     .counter-wrapper {
         margin-top: 16px
+    }
+    .sqr_color,.sqr_color2{
+        display: none;
     }
 .need-home-text{
     text-align: center!important;
